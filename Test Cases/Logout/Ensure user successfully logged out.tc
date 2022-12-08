@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure user successfully logged out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a913a18f-eb51-46ba-9f5a-c6ba2f43479c</testCaseGuid>
+</TestCaseEntity>

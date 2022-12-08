@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure user successfully edits profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2270295-80e7-444d-ab6a-aac493123dca</testCaseGuid>
+</TestCaseEntity>
